@@ -1,6 +1,6 @@
 # DotNetTools.Adapter
 
-Use the HttpClientAdapter in your client application to do CRUD operations on the WebAPIs/RestAPIs. 
+Use the HttpClientAdapter in your client application to do CRUD operations (Get, Post, Patch, Put, Delete) on the WebAPIs/RestAPIs. 
 
 ## Getting Started
 
@@ -27,5 +27,5 @@ using DotNetTools.Adapter;
 ```
 var content = new StringContent(JsonConvert.SerializeObject(userModel), Encoding.UTF8, "application/json");
 
-await HttpClientAdapter.Post("https://localhost:5001/api/user", HttpContent);
+await HttpClientAdapter.Post("https://localhost:5001/api/user", content);
 ```
