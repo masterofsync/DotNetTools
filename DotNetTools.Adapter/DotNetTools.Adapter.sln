@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetTools.Adapter", "DotNetTools.Adapter\DotNetTools.Adapter.csproj", "{BB27CF1C-C5D1-4B56-BEAF-A1BB31AF97A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB27CF1C-C5D1-4B56-BEAF-A1BB31AF97A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB27CF1C-C5D1-4B56-BEAF-A1BB31AF97A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB27CF1C-C5D1-4B56-BEAF-A1BB31AF97A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB27CF1C-C5D1-4B56-BEAF-A1BB31AF97A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE64C4FA-7828-427B-8E84-E35D06585945}
+	EndGlobalSection
+EndGlobal
