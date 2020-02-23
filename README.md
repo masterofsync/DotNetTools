@@ -1,2 +1,2 @@
 # DotNetTools
-Collection of dot NET tools
+Collection of .NET tools
