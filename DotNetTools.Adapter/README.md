@@ -1,10 +1,6 @@
 # DotNetTools.Adapter
 
-Use the HttpClientAdapter to do CRUD operations on the WebAPIs/RestAPIs. 
-
-## Description
-
-An in-depth paragraph about your project and overview of use.
+Use the HttpClientAdapter in your client application to do CRUD operations on the WebAPIs/RestAPIs. 
 
 ## Getting Started
 
